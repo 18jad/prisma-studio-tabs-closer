@@ -5,6 +5,8 @@
 
 A Tampermonkey UserScript that enhances Prisma Studio with a "Close All Tabs" button. It's context-aware, styled natively, and features a custom, animated confirmation modal for a seamless user experience.
 
+(A COMPLETELY UNNECESSARY FEATURE, PERFECT FOR THOSE WHO PREFER TO BE EXTRA LAZY)
+
 ![0724 (1)](https://github.com/user-attachments/assets/f02af5ce-9d27-4fda-a45b-26372cbff862)
 
 
