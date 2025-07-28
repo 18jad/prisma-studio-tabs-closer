@@ -1,5 +1,8 @@
 # Prisma Studio Pro Tab Closer
 
+# 🟨 Archived:
+### Apparently Prisma have introduced this feature in newer Prisma Studio version, so this script is only useful and will only work on older versions that doesn't have the new UI
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](#)
 
